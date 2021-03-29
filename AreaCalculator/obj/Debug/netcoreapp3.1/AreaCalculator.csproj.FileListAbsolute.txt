@@ -1,0 +1,12 @@
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp3.1/AreaCalculator.csprojAssemblyReference.cache
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp3.1/AreaCalculator.AssemblyInfoInputs.cache
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp3.1/AreaCalculator.AssemblyInfo.cs
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp3.1/AreaCalculator.csproj.CoreCompileInputs.cache
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp3.1/AreaCalculator.deps.json
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp3.1/AreaCalculator.runtimeconfig.json
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp3.1/AreaCalculator.runtimeconfig.dev.json
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp3.1/AreaCalculator.dll
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp3.1/AreaCalculator.pdb
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp3.1/AreaCalculator.dll
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp3.1/AreaCalculator.pdb
+/Users/kaitlyncurtis/Projects/Dev-10/1-Area calculator/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp3.1/AreaCalculator.genruntimeconfig.cache
